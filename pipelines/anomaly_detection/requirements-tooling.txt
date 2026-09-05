@@ -1,5 +1,5 @@
 # Python 3.14 orchestration; deliberately excludes the training environment.
-google-cloud-aiplatform>=1.110,<2
+google-cloud-aiplatform>=2.1,<3
 google-cloud-bigtable>=2.30,<3
 google-cloud-bigquery>=3.30,<4
 google-cloud-pubsub>=2.30,<3
