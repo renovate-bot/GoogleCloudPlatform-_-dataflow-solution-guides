@@ -27,7 +27,7 @@ dependencies = [
     # worker boot binary and the apache-beam wheel to be the same version.
     # Bump in lockstep with the SDK base image. 2.74.0 still ships
     # apache_beam.ml.inference.vllm_inference (added 2.60.0).
-    "apache-beam[gcp]==2.74.0",
+    "apache-beam[gcp]==2.76.0",
     "pandera>=0.20.0",
     "whylogs>=1.5.0",
     "pandas>=2.2.0",
