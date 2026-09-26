@@ -37,7 +37,7 @@ fasteners==0.20
 fonttools==4.63.0
 frozenlist==1.8.0
 google-api-core==2.30.3
-google-apitools==0.5.31
+google-apitools==0.5.35
 google-auth==2.53.0
 google-auth-httplib2==0.2.1
 google-cloud-aiplatform==1.153.1
